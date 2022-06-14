@@ -10,3 +10,19 @@ Die Skizze untersucht die Idee des ersten Moments, als der Urknall kollidierte u
 Video beigefügt.
 
 2020
+
+<br />
+
+![el-gran-bang-1](../images/el-gran-bang-1.png)
+<br />
+<br />
+![el-gran-bang-2](../images/el-gran-bang-2.png)
+<br />
+<br />
+![el-gran-bang-3](../images/el-gran-bang-3.png)
+<br />
+<br />
+![el-gran-bang-4](../images/el-gran-bang-4.png)
+<br />
+<br />
+![el-gran-bang-5](../images/el-gran-bang-5.png)

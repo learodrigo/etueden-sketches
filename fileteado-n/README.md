@@ -10,3 +10,13 @@ Mehrere Wurzeln wurden symmetrisch in der Leinwand platziert, diese bewegen und 
 Video beigefügt.
 
 2020
+
+<br />
+
+![fileteado-n-1](../images/fileteado-n-1.png)
+<br />
+<br />
+![fileteado-n-2](../images/fileteado-n-2.png)
+<br />
+<br />
+![fileteado-n-3](../images/fileteado-n-3.png)

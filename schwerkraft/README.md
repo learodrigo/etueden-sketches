@@ -10,3 +10,15 @@ Diese Skizze enthält mehrere zufällig platzierte Attraktoren, um einen Gravita
 Video beigefügt.
 
 2021
+
+<br />
+
+![schwerkraft-1](../images/schwerkraft-1.png)
+<br />
+<br />
+![schwerkraft-2](../images/schwerkraft-2.png)
+<br />
+<br />
+![schwerkraft-3](../images/schwerkraft-3.png)
+<br />
+<br />
